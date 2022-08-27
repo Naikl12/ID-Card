@@ -14,17 +14,11 @@ body{
 }
 
 .border-mozt{
-    border-top: #ee9b00;
+    border: #ee9b00;
 }
 
 .color-mozt{
     color: #ee9b00;
-}
-
-
-.text-bg{
-    background: rgb(0,18,25);
-    background: linear-gradient(0deg, rgba(0,18,25,1) 1%, rgba(0,18,25,1) 54%, rgba(77,8,11,1) 100%);
 }
 
 @media (min-width: 1140px) {
