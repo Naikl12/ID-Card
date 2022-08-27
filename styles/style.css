@@ -1,0 +1,28 @@
+body{
+    background: rgb(0,14,19);
+    background: linear-gradient(0deg, rgba(0,14,19,1) 0%, rgba(0,18,25,1) 30%, rgba(77,8,11,1) 97%);
+}
+
+.bg-mozt{
+    background-color: #ee9b00;
+}
+
+.bg-darkBlue{
+    background-color: #001219;
+    border: none;
+}
+
+.border-mozt{
+    border-top: #ee9b00;
+}
+
+.color-mozt{
+    color: #ee9b00;
+}
+
+
+.text-bg{
+    background: rgb(0,18,25);
+    background: linear-gradient(0deg, rgba(0,18,25,1) 1%, rgba(0,18,25,1) 54%, rgba(77,8,11,1) 100%);
+}
+
